@@ -1,0 +1,8 @@
+name: demo-accumulator
+market: R_100
+contract_type: DIGITODD
+stake: 1.0
+number_of_runs: 3
+contract_duration_ticks: 1
+take_profit: 5.0
+mode: paper
